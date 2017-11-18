@@ -108,6 +108,7 @@ gem 'uglifier'
 gem 'jquery-rails', '~> 2.1.4'
 gem 'pjax_rails'
 gem 'underscore-rails'
+gem 'unicorn'
 
 gem 'sucker_punch'
 
